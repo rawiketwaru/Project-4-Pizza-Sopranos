@@ -3,4 +3,8 @@ ik heb geleerd hier dat het belangrijk is om een nette mappenstructuur te hebben
 
 Verder heb ik geleerd om eerst een basisstructuur te bouwen voordat je aan de inhoud begint. Dit zorgt ervoor dat je een goed fundament hebt om op voort te bouwen. Ook wordt aangeraden om de bootstrap documentatie te raadplegen voor complexe elementen, omdat hier veel voorbeelden en uitleg te vinden is.
 
+<<<<<<< HEAD
 Tot slot heb ik geleerd dat het handig is om regelmatig back-ups te maken van je projectmap, zodat je altijd een kopie hebt van je werk en eventuele veranderingen gemakkelijk ongedaan kunt maken als er iets mis gaat.
+=======
+Tot slot heb ik geleerd dat het handig is om regelmatig back-ups te maken van je projectmap, zodat je altijd een kopie hebt van je werk en eventuele veranderingen gemakkelijk ongedaan kunt maken als er iets mis gaat.
+>>>>>>> 88d6348078dbb20e1b7be74f778428d5f2c0b0c9
